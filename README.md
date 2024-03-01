@@ -23,15 +23,15 @@ The skill track consists of 4 comprehensive courses and 1 project to solidify yo
 
 ## Project 🛠
 
-- **Analyzing Car Reviews with LLMs** - Apply your skills to solve real-world language tasks for a car dealership company.
+5.  **Analyzing Car Reviews with LLMs** - Apply your skills to solve real-world language tasks for a car dealership company.
 
 ## Code Along 🖥
 
-- **Fine-Tuning Your Own Llama 2 Model** - Get hands-on experience in customizing a Llama 2 model for specific tasks.
+6. **Fine-Tuning Your Own Llama 2 Model** - Get hands-on experience in customizing a Llama 2 model for specific tasks.
 
 ## Blog 📝
 
-- **LLMOps Essentials: A Practical Guide to Operationalizing Large Language Models** - Learn the best practices for deploying and managing LLMs in production environments.
+7. **LLMOps Essentials: A Practical Guide to Operationalizing Large Language Models** - Learn the best practices for deploying and managing LLMs in production environments.
 
 ## Instructors 👨‍🏫
 
